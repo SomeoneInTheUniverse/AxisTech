@@ -1,2 +1,0 @@
-# AxisTech
-Ticket loggers 
